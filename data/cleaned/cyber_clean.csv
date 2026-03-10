@@ -1,0 +1,40 @@
+"SNo","Category","STATE","crimes_2016","crimes_2017","crimes_2018","pct_share","population_lakhs","rate_per_lakh"
+"1","State","ANDHRA PRADESH",616,931,1207,4.4,520.3,2.3
+"2","State","ARUNACHAL PRADESH",4,1,7,0,14.9,0.5
+"3","State","ASSAM",696,1120,2022,7.4,340.4,5.9
+"4","State","BIHAR",309,433,374,1.4,1183.3,0.3
+"5","State","CHHATTISGARH",90,171,139,0.5,284.7,0.5
+"6","State","GOA",31,13,29,0.1,15.3,1.9
+"7","State","GUJARAT",362,458,702,2.6,673.2,1
+"8","State","HARYANA",401,504,418,1.5,284,1.5
+"9","State","HIMACHAL PRADESH",31,56,69,0.3,72.7,0.9
+"10","State","JAMMU & KASHMIR",28,63,73,0.3,134.3,0.5
+"11","State","JHARKHAND",259,720,930,3.4,370.5,2.5
+"12","State","KARNATAKA",1101,3174,5839,21.4,654.5,8.9
+"13","State","KERALA",283,320,340,1.2,350,1
+"14","State","MADHYA PRADESH",258,490,740,2.7,814.7,0.9
+"15","State","MAHARASHTRA",2380,3604,3511,12.9,1213.9,2.9
+"16","State","MANIPUR",11,74,29,0.1,30.8,0.9
+"17","State","MEGHALAYA",39,39,74,0.3,32,2.3
+"18","State","MIZORAM",1,10,6,0,11.8,0.5
+"19","State","NAGALAND",2,0,2,0,21.3,0.1
+"20","State","ODISHA",317,824,843,3.1,435.5,1.9
+"21","State","PUNJAB",102,176,239,0.9,297,0.8
+"22","State","RAJASTHAN",941,1304,1104,4.1,765.9,1.4
+"23","State","SIKKIM",1,1,1,0,6.6,0.2
+"24","State","TAMIL NADU",144,228,295,1.1,754.6,0.4
+"25","State","TELANGANA",593,1209,1205,4.4,370.3,3.3
+"26","State","TRIPURA",8,7,20,0.1,39.6,0.5
+"27","State","UTTAR PRADESH",2639,4971,6280,23,2230,2.8
+"28","State","UTTARAKHAND",62,124,171,0.6,110.6,1.5
+"29","State","WEST BENGAL",478,568,335,1.2,965,0.3
+"State","State","TOTAL STATE(S)",12187,21593,27004,99.1,12997.9,2.1
+"30","Union Territory","A & N ISLANDS",3,3,7,0,4,1.8
+"31","Union Territory","CHANDIGARH",26,32,30,0.1,11.7,2.6
+"32","Union Territory","D&N HAVELI",1,1,0,0,5.3,0
+"33","Union Territory","DAMAN & DIU",0,0,0,0,4,0
+"34","Union Territory","DELHI UT",98,162,189,0.7,195.6,1
+"35","Union Territory","LAKSHADWEEP",0,0,4,0,0.7,6
+"36","Union Territory","PUDUCHERRY",2,5,14,0.1,14.8,0.9
+"Union Territory","Union Territory","TOTAL UT(S)",130,203,244,0.9,236,1
+"Total (All India)","Total (All India)","TOTAL (ALL INDIA)",12317,21796,27248,100,13233.8,2.1
